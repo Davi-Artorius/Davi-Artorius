@@ -22,7 +22,7 @@ A sovereign multi-agent system designed for high-frequency market analysis and a
 - **Tech Stack:** Python, FastAPI, Gemini 1.5 Pro, RAM Disk persistence.
 - **Highlight:** Implements an adversarial logic where multiple agents (Forge Spirit, Rubick, Oracle) debate before execution.
 
-#### 🦅 [Pallar AI SaaS](https://github.com/Davi-Artorius/pallar-ai-saas)
+#### 🦅 [Pallar EBM](https://github.com/Davi-Artorius/Pallar-EBM)
 An industrial-grade real estate automation ecosystem.
 - **Tech Stack:** n8n, Twenty CRM (Self-hosted), PostgreSQL, Evolution API.
 - **Highlight:** Features an integrated RAG system for technical memorials and a "Kill Switch" directly manageable via CRM.
