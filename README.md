@@ -2,7 +2,7 @@
 
 > "Designing Cognitive Prostheses and Sovereign Autonomous Systems."
 
-I am a Senior Software Engineer specializing in the convergence of **Artificial Intelligence**, **Full-Stack Engineering**, and **Autonomous Systems**. My work focuses on building self-healing, agentic architectures that bridge the gap between raw data and strategic decision-making.
+I am a Software Engineer specializing in the convergence of **Artificial Intelligence**, **Full-Stack Engineering**, and **Autonomous Systems**. My work focuses on building self-healing, agentic architectures that bridge the gap between raw data and strategic decision-making.
 
 ---
 
